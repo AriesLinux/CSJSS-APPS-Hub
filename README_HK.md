@@ -91,13 +91,13 @@
 **因為呢個係校內專用 Store，麻煩跟住下面步驟裝：**
 
 1.  **下載安裝包**:
-    * 去校網 Download `CSJSS_Store_Installer` (iOS 描述檔 或 Android APK)。
+    * 去校網 Download `CSJSS_Store_Installer` (iOS 描述檔 或 Android APK)
 2.  **信任企業憑證 (iOS)**:
-    * 設定 -> 一般 -> VPN 與裝置管理 -> 㩒信任 `Caritas St. Joseph Secondary School`。
+    * 設定 -> 一般 -> VPN 與裝置管理 -> 㩒信任 `Caritas St. Joseph Secondary School`
 3.  **身份登入**:
-    * 用學校 Google Account (`@csjss.edu.hk`) Login 個 Store，系統會自動派對應權限畀你。
+    * 用學校 Google Account (`@csjss.edu.hk`) Login 個 Store，系統會自動派對應權限畀你
 4.  **一鍵部署**:
-    * 㩒首頁個 "Install All Essential Apps" 就可以一次過 Download 晒必備工具。
+    * 㩒首頁個 "Install All Essential Apps" 就可以一次過 Download 晒必備工具
 
 ---
 
