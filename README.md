@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1d4ed8,100:3b82f6&height=220&section=header&text=CSJSS%20APPS%20Hub&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=The%20Ultimate%20App%20Store%20for%20CSJSS%20Students%20%26%20Staff&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="CSJSS APPS Hub">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1d4ed8,100:3b82f6&height=220&section=header&text=CSJSS%20APPS%20Hub&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=The%20Ultimate%20App%20Store%20for%20CSJSS%20Students%20and%20Staff&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="CSJSS APPS Hub">
 
 <br>
 
